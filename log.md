@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 00: January 2nd, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Preparing Dopbox, github and laptop for tomorrow.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Still need to figure out what project to work on.
+**Link to work:** [Git repo](https://github.com/icode-live)
 
 
-### Day 1: June 27, Monday
+### Day 01: January 3rd, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
+1. Starting with a C to Rust porting activity, to better understand the language.
+2. Doing the freecodecamp challenges for the sake of completeness.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Something is missing from the Rust documentation eco-system. A simple plain vanilla
+*this is how you **X** in rust*. Perhaps this repo will contribut with that end in mind.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**: 
+1. c_to_rust [Git repo](https://github.com/icode-live/c_to_rust)
+2. freecodecamp up to html5/css [Ordered list](https://www.freecodecamp.com/challenges/create-an-ordered-list)
+
