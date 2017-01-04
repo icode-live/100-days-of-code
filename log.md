@@ -21,3 +21,15 @@
 1. c_to_rust [Git repo](https://github.com/icode-live/c_to_rust)
 2. freecodecamp up to html5/css [Ordered list](https://www.freecodecamp.com/challenges/create-an-ordered-list)
 
+
+### Day 02: January 4th, 2017
+
+**Today's Progress**: 
+1. C to Rust porting activity
+2. Doing the freecodecamp challenges for the sake of completeness.
+
+**Thoughts**: Why-Rust by Jim Blandy (O'Reilly ed) is very helpfull to tackle the official doc. 
+
+**Link to work**: 
+1. c_to_rust [Git repo](https://github.com/icode-live/c_to_rust/week01)
+
